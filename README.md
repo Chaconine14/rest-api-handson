@@ -1,9 +1,10 @@
 # REST API　ハンズオン
 
-## 《GETリクエスト》
-
+## GETリクエスト
+### 《POSTMANスクリーンショット》
 ![スクリーンショット 2023-10-24 13 39 44](https://github.com/Chaconine14/rest-api-handson/assets/145889898/dfb1d45a-a5f8-414f-8708-0398bd1b8d8f)
 
+### 《curlコマンド実行結果》
 ```
 HTTP/2 200 
 server: GitHub.com
