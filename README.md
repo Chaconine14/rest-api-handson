@@ -19,4 +19,12 @@ content-type: application/json; charset=utf-8
 }
 ```
 
+## POSTリクエスト
 
+### 《POSTMANスクリーンショット》
+
+### 《curlコマンド実行結果》
+
+```
+
+```
